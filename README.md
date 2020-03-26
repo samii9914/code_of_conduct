@@ -1,5 +1,5 @@
-                                                  # code_of_conduct
-                                                  #CODE OF CONDUCT
+# code_of_conduct
+# CODE OF CONDUCT                                                  
 The community is made up of members who are from different diversity and it is one of our huge strengths! We've set up this Code of Conduct to help guide all community members in how to compassionately communicate, even when our backgrounds or identities differ. We are all here to help each other learn, grow our skill sets, and improve the state of scalable search.
 
 The Community Code of Conduct applies to both events and online spaces. This community is dedicated to providing a positive experience for everyone, regardless of age, caste, citizenship, disability, education, ethnicity, gender identity or expression, immigration status, level of experience, neurodiversity, physical appearance or body size, nationality, socio-economic status, sexual orientation, race, or religion (or lack thereof).
@@ -7,7 +7,7 @@ This community has some community guidelines that ensure the community continues
 If you are new to discussions about diversity, we encourage you to follow some guidelines to support marginalized groups in our community. Acknowledge that the lived experiences of marginalized groups are valid. Process intense feelings about diversity with a friend. Listen to marginalized groups, but try not to put the burden of education on them. Be open to learning how to be more inclusive. Avoid critiquing people's tone when they talk about discrimination. Understand creating an inclusive culture takes time, energy, and resources. There are specific types of behavior that are not tolerated in community events and online spaces. Inappropriate behavior includes: Deliberate intimidation, stalking, or following; harassing photography or recording at events; sustained disruption of online discussion, talks, or other events; harassment of people who don't drink alcohol; sexist, racist, homophobic, transphobic, ableist language or otherwise exclusionary language; unwelcome sexual attention or behavior that contributes to a sexualized environment; unwelcome physical contact; violence or threats of violence; bringing a weapon to an event, or influencing or encouraging inappropriate behavior.
 
 
-                                                 #EXPECTED BEHAVIOUR
+# EXPECTED BEHAVIOUR                                                
 We have a few community guidelines that we ask people to adhere to. Being explicit about our community norms will ensure that this community continues to be an excellent space in which to communicate, collaborate, and contribute. When the guidelines are unclear, we expect the spirit of the guidelines to be followed.
 Be considerate. Your work will be used by other people, and you, in turn, will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions.
 Be patient. This mostly applies to forums, mailing lists, and code contributions (i.e. asynchronous forms of communication). Communities are often built on volunteer time both from participants and organizers. It is possible that your question or code contribution or suggestion might not receive an immediate response. Be patient and consider the norms of the community. One reminder ping is welcome, many reminder pings in rapid succession are not a good display of patience. Similarly, posting the same question in multiple threads is frowned upon and should not be done.
@@ -18,7 +18,7 @@ Ask for help when unsure. Nobody is expected to be perfect in this community. As
  
  
  
-                                               #UNEXPECTED BEHAVIOUR
+# UNEXPECTED BEHAVIOUR                                               
 We want all participants in the community to have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for Elastic community spaces:
 Deliberate intimidation, stalking or following
 Harassing photography or recording at events. If someone says they do not want a picture or video taken of them, respect that choice. If they ask you to delete or remove a picture taken without permission, do so. Photographers (even paid event photographers) following or stalking attendees in order to get shots of a diverse group of community members is not acceptable. 
@@ -30,10 +30,10 @@ Bringing a weapon to an event. No weapons are allowed at event venues, including
 Influencing or encouraging inappropriate behavior. If you influence or encourage another person to violate the Code of Conduct, you may face the same consequences as if you had violated the Code of Conduct.
 Participants asked to stop any inappropriate behavior are expected to comply immediately. 
  
-                                         #REPORTING A CODE OF CONDUCT INCIDENT
+# REPORTING A CODE OF CONDUCT INCIDENT                                         
 We encourage the community members to report code of conduct incident to the people who are the volunteers and are working in the society through the online channels through which we will communicate like slacks or telegrams or through the emails. Also, a form will be made in which they can report such events.
                      
-                                   #WHAT WILL HAPPEN IF PEOPLE BREAK THE CODE OF CONDUCT
+# WHAT WILL HAPPEN IF PEOPLE BREAK THE CODE OF CONDUCT                                  
 Breaking any of the rules of this code of the conduct or violation of any rule will make you get discarded from the community and you will not be able to be a part of this community at any cost.
 
 
