@@ -1,11 +1,9 @@
-# code_of_conduct
 # CODE OF CONDUCT                                                  
 The community is made up of members who are from different diversity and it is one of our huge strengths! We've set up this Code of Conduct to help guide all community members in how to compassionately communicate, even when our backgrounds or identities differ. We are all here to help each other learn, grow our skill sets, and improve the state of scalable search.
 
 The Community Code of Conduct applies to both events and online spaces. This community is dedicated to providing a positive experience for everyone, regardless of age, caste, citizenship, disability, education, ethnicity, gender identity or expression, immigration status, level of experience, neurodiversity, physical appearance or body size, nationality, socio-economic status, sexual orientation, race, or religion (or lack thereof).
 This community has some community guidelines that ensure the community continues to be an excellent space in which to communicate, collaborate, and contribute: Be considerate, patient, respectful, and nice; communicate effectively, and ask for help when you're unsure.
 If you are new to discussions about diversity, we encourage you to follow some guidelines to support marginalized groups in our community. Acknowledge that the lived experiences of marginalized groups are valid. Process intense feelings about diversity with a friend. Listen to marginalized groups, but try not to put the burden of education on them. Be open to learning how to be more inclusive. Avoid critiquing people's tone when they talk about discrimination. Understand creating an inclusive culture takes time, energy, and resources. There are specific types of behavior that are not tolerated in community events and online spaces. Inappropriate behavior includes: Deliberate intimidation, stalking, or following; harassing photography or recording at events; sustained disruption of online discussion, talks, or other events; harassment of people who don't drink alcohol; sexist, racist, homophobic, transphobic, ableist language or otherwise exclusionary language; unwelcome sexual attention or behavior that contributes to a sexualized environment; unwelcome physical contact; violence or threats of violence; bringing a weapon to an event, or influencing or encouraging inappropriate behavior.
-
 
 # EXPECTED BEHAVIOUR                                                
 We have a few community guidelines that we ask people to adhere to. Being explicit about our community norms will ensure that this community continues to be an excellent space in which to communicate, collaborate, and contribute. When the guidelines are unclear, we expect the spirit of the guidelines to be followed.
@@ -15,8 +13,6 @@ Be respectful. Not all of us will agree all the time, but disagreement is no exc
 Be nice. Please be courteous, respectful and polite to fellow community members.
 Communicate effectively. Clear communication can help to avoid misunderstandings. Remember that words and phrases can be interpreted differently depending on people's backgrounds. It's better to ask for clarification than to make assumptions. Disagreements, social and technical, are normal, but we expect participants in the project to resolve disagreements constructively. 
 Ask for help when unsure. Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, though they may be directed to the appropriate forum. Those who are asked should be responsive and helpful.
- 
- 
  
 # UNEXPECTED BEHAVIOUR                                               
 We want all participants in the community to have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for Elastic community spaces:
